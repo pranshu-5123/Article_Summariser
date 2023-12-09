@@ -36,9 +36,9 @@ Some sample Article Links
 
 
 
-## Deployment
+## Soame Imp. Imports
 
-To deploy this project run
+These are some Important Frameworks and Libraries used in the project.
 
 ```bash
 import tkinter as tk
