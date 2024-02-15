@@ -36,7 +36,7 @@ Some sample Article Links
 
 
 
-## Soame Imp. Imports
+## Some Imp. Imports
 
 These are some Important Frameworks and Libraries used in the project.
 
