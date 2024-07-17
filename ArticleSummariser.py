@@ -93,9 +93,3 @@ btn = tk.Button(root, text="Summarize", command=summarize)
 btn.pack()
 
 root.mainloop()
-
-
-
-
-
-
